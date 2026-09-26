@@ -247,4 +247,4 @@ This repository serves as the official landing page for HELLDIVERS 2. The softwa
 **Get the most recent version of HELLDIVERS 2 today!**
 
 ---
-**Last updated:** 2026-09-26 12:42:13 UTC
+**Last updated:** 2026-09-26 16:53:11 UTC
